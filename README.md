@@ -1,5 +1,24 @@
 # React + Vite
 
+Make a password folder and keep all the above files in that.
+---
+ 
+ 
+<img width="2948" height="1664" alt="Screenshot from 2025-08-07 10-42-39" src="https://github.com/user-attachments/assets/a6f6c113-d0c3-4c03-a0ca-ac40046b354d" />
+---
+---
+---
+<img width="2948" height="1664" alt="Screenshot from 2025-08-07 10-42-54" src="https://github.com/user-attachments/assets/98b9cb77-2a37-485d-bc04-d909c0417d74" />
+---
+---
+---
+<img width="2948" height="1664" alt="Screenshot from 2025-08-07 10-43-11" src="https://github.com/user-attachments/assets/0c89ee5c-fbec-46f6-a59d-08f695f42c22" />
+---
+---
+---
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
